@@ -1,0 +1,138 @@
+[
+  {
+    "season": "2024",
+    "statCategory": "Most Fours ",
+    "stats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "season": "2024",
+    "statCategory": "Most Sixes ",
+    "stats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "season": "2024",
+    "statCategory": "Orange Cap",
+    "stats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "season": "2024",
+    "statCategory": "Most Centuries",
+    "stats": [
+      {},
+      {
+        "position": "1",
+        "player": "Virat Kohli",
+        "runs": "3",
+        "fours": "5",
+        "sixes": "62",
+        "centuries": "154.69",
+        "fifties": "1"
+      },
+      {
+        "position": "2",
+        "player": "Ruturaj Gaikwad",
+        "runs": "3",
+        "fours": "4",
+        "sixes": "58",
+        "centuries": "141.16",
+        "fifties": "1"
+      },
+      {
+        "position": "3",
+        "player": "Riyan Parag",
+        "runs": "3",
+        "fours": "4",
+        "sixes": "40",
+        "centuries": "149.21",
+        "fifties": "0"
+      },
+      {
+        "position": "4",
+        "player": "Travis Head",
+        "runs": "1",
+        "fours": "4",
+        "sixes": "64",
+        "centuries": "191.55",
+        "fifties": "1"
+      },
+      {
+        "position": "5",
+        "player": "Sanju Samson",
+        "runs": "4",
+        "fours": "5",
+        "sixes": "48",
+        "centuries": "153.46",
+        "fifties": "0"
+      },
+      {
+        "position": "6",
+        "player": "Sai Sudharsan",
+        "runs": "1",
+        "fours": "2",
+        "sixes": "48",
+        "centuries": "141.28",
+        "fifties": "1"
+      },
+      {
+        "position": "7",
+        "player": "K L Rahul",
+        "runs": "0",
+        "fours": "4",
+        "sixes": "45",
+        "centuries": "136.12",
+        "fifties": "0"
+      },
+      {
+        "position": "8",
+        "player": "Nicholas Pooran",
+        "runs": "6",
+        "fours": "3",
+        "sixes": "35",
+        "centuries": "178.21",
+        "fifties": "0"
+      },
+      {
+        "position": "9",
+        "player": "Sunil Narine",
+        "runs": "0",
+        "fours": "3",
+        "sixes": "50",
+        "centuries": "180.74",
+        "fifties": "1"
+      }
+    ]
+  },
+  {
+    "season": "2024",
+    "statCategory": "Most Fifties",
+    "stats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  }
+]
